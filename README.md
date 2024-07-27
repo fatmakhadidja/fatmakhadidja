@@ -1,10 +1,13 @@
 # About Me:
 ## Hi, I'm Khadidja 👋<br><br>Welcome to my GitHub profile!<br><br>
-- 🔭 I'm a third-year Computer Science student at ESI Algiers.<br>
-- 🌱 Aspiring Junior Flutter Developer, continuously learning and improving.<br>
-- 👯 Passionate about team collaboration and open-source contributions.<br>
-- 💬 Feel free to ask me about Flutter, Firebase, and anything tech-related.<br>
-- 📫 Reach me via [Email](mailto:khadidjadrf@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/djerfi-fatma/).
+ <h3>Welcome to my GitHub profile!</h3>
+  <h4>
+    - 🔭 I'm a third-year Computer Science student at ESI Algiers.<br><br>    
+    - 🌱 Aspiring Junior Flutter Developer, continuously learning and improving.<br><br>      
+    - 👯 Passionate about team collaboration and open-source contributions.<br><br>  
+    - 💬 Feel free to ask me about Flutter, Firebase, and anything tech-related.<br><br>      
+    - 📫 Reach me via <a href="mailto:khadidjadrf@gmail.com">Email</a> or connect with me on <a href="https://www.linkedin.com/in/djerfi-fatma/">LinkedIn</a>.
+  </h4>
 
 <div align="center">
   
