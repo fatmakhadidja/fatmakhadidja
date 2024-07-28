@@ -1,5 +1,6 @@
 
-# Hi, I'm Khadidja 👋<br><br> ## Welcome to my GitHub profile!<br><br>
+# Hi, I'm Khadidja 👋
+## Welcome to my GitHub profile!
 <h3>
   - 🔭 Third-year Computer Science student at ESI Algiers.<br><br>    
   - 🌱 Aspiring Junior Flutter Developer with a commitment to continuous learning and improvement.<br><br>      
