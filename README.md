@@ -1,56 +1,99 @@
+<h1 align="center">Hi👋  I'm Khadidja DJERFI</h1>
 
-# Hi, I'm Khadidja 👋
-## Welcome to my GitHub profile!
-
-<h3>
-  - 🔭 Third-year Computer Science student at ESI Algiers.<br><br>    
-  - 🌱 Aspiring Junior Flutter Developer with a commitment to continuous learning and improvement.<br><br>      
-  - 👯 Enthusiastic about team collaboration and contributing to open-source projects.<br><br>  
-  - 💬 Available for inquiries about Flutter, Firebase, and other tech-related topics.<br><br>      
-  - 📫 Contact me via <a href="mailto:khadidjadrf@gmail.com">Email</a> or connect on <a href="https://www.linkedin.com/in/djerfi-fatma/">LinkedIn</a>.<br><br>
-  - 🌐 Feel free to explore my <a href="https://bento.me/fatmadjerfi">portfolio</a>.
-</h3>
-
-<div align="center">
-  
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/khadidjadjerfi_33981) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pseudeaa) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djerfi-fatma/)
-
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fatmakhadidja&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fatmakhadidja&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmakhadidja&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fatmakhadidja&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fatmakhadidja&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Third-year+Computer+Science+Student+at+ESI+Algiers;Aspiring+Junior+Flutter+Developer;UI/UX+designer;Always+learning+new+things" alt="Typing SVG">
+  </a>
+</p>
 
 ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=pseudeaa&label=Profile%20Views&color=2&icon=5&pretty=false" />
-</a>
 
+###
+
+<details>
+  <summary>💫 <strong> About me</strong></summary>
+
+ &emsp; 💻 I'm currently working on **a digital file management app for patients** <br>
+&emsp; 🌟 I'm looking for collaboration in **mobile development and backend projects** <br>
+&emsp; 📚 I’m currently learning about **Django and MySQL integration with Flutter** <br>
+&emsp; 🌐 You can see my portfolio at **[bento.me/fatmadjerfi](https://bento.me/fatmadjerfi)** and contact me via **[email](mailto:khadidjadrf@gmail.com)** <br>
+&emsp; 🔐 Fun Fact: **I'm passionate about app development and cybersecurity** <br>
+
+</details>
+
+<details>
+  <summary>⚙️ <strong>Languages and Tools</strong></summary>
+
+  ### Programming Languages
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" width="42" alt="Dart logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="Python logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="C logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="Java logo" />
+  </p>
+
+  ### Mobile and Web Development
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="42" alt="Flutter logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="Django logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="HTML5 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="CSS3 logo" />
+  </p>
+
+  ### Tools and Platforms
+ <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="Git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="GitHub logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="Firebase logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="VS Code logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="Django logo" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" width="42" alt="Postman logo" />
+</p>
+
+  ### Design
+  <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="Figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="42" alt="Canva logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="Adobe Photoshop logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="42" alt="Adobe Illustrator logo" />
+</p>
+
+
+</details>
+
+<details>
+  <summary>🌐 <strong>Socials</strong></summary>
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/djerfi-fatma/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+
+  <a href="https://instagram.com/pseudeaa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+  </a>
+  <a href="https://discordapp.com/users/khadidjadjerfi_33981" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
+  </a>
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</details>
+
+<details>
+  <summary>🔥 <strong>My Github Stats</strong></summary>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=fatmakhadidja&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" height="180" alt="streak graph" />
+ </div>
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatmakhadidja&show_icons=true&theme=aura&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmakhadidja&layout=compact&langs_count=8&theme=aura&hide_border=true" height="160" alt="languages graph" />
+ </div>
+
+</details>
+
