@@ -85,15 +85,12 @@
 <details>
   <summary>🔥 <strong>My Github Stats</strong></summary>
 
-<br clear="both">
+  <br clear="both">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fatmakhadidja&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" height="180" alt="streak graph" />
- </div>
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatmakhadidja&show_icons=true&theme=aura&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmakhadidja&layout=compact&langs_count=8&theme=aura&hide_border=true" height="160" alt="languages graph" />
- </div>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=fatmakhadidja&show_icons=true&theme=aura&hide_border=true" height="160" alt="Stats Graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmakhadidja&layout=compact&langs_count=8&theme=aura&hide_border=true" height="160" alt="Languages Graph" />
+  </div>
 
 </details>
 
