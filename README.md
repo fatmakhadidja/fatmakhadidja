@@ -15,7 +15,6 @@
 
  &emsp; 💻 I'm currently working on **a digital file management app for patients** <br>
 &emsp; 🌟 I'm looking for collaboration in **mobile development and backend projects** <br>
-&emsp; 📚 I’m currently learning about **Django and MySQL integration with Flutter** <br>
 &emsp; 🌐 You can see my portfolio at **[bento.me/fatmadjerfi](https://bento.me/fatmadjerfi)** and contact me via **[email](mailto:khadidjadrf@gmail.com)** <br>
 &emsp; 🔐 Fun Fact: **I'm passionate about app development and cybersecurity** <br>
 
