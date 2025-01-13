@@ -11,19 +11,19 @@
 ###
 
 <details>
-  <summary>💫 <strong> About me</strong></summary>
+  <summary>🌟 <strong>About Me</strong></summary>
 
  &emsp; 💻 I'm currently working on **a digital file management app for patients** <br>
-&emsp; 🌟 I'm looking for collaboration in **mobile development and backend projects** <br>
-&emsp; 🌐 You can see my portfolio at **[bento.me/fatmadjerfi](https://bento.me/fatmadjerfi)** and contact me via **[email](mailto:khadidjadrf@gmail.com)** <br>
-&emsp; 🔐 Fun Fact: **I'm passionate about app development and cybersecurity** <br>
+ &emsp; 🤝 I'm looking for collaboration in **mobile development and backend projects** <br>
+ &emsp; 🌐 You can see my portfolio at **[bento.me/fatmadjerfi](https://bento.me/fatmadjerfi)** and contact me via **[email](mailto:khadidjadrf@gmail.com)** <br>
+ &emsp; ✨ Fun Fact: **I'm passionate about app development and cybersecurity** <br>
 
 </details>
 
 <details>
   <summary>⚙️ <strong>Languages and Tools</strong></summary>
 
-  ### Programming Languages
+  ### 💻 Programming Languages
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" width="42" alt="Dart logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="Python logo" />
@@ -31,7 +31,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="Java logo" />
   </p>
 
-  ### Mobile and Web Development
+  ### 🌐 Mobile and Web Development
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="42" alt="Flutter logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="Django logo" />
@@ -39,18 +39,17 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="CSS3 logo" />
   </p>
 
-  ### Tools and Platforms
+  ### 🛠️ Tools and Platforms
  <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="Git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="GitHub logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="Firebase logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="VS Code logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="MySQL logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="Django logo" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" width="42" alt="Postman logo" />
 </p>
 
-  ### Design
+  ### 🎨 Design
   <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="Figma logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="42" alt="Canva logo" />
@@ -62,7 +61,7 @@
 </details>
 
 <details>
-  <summary>🌐 <strong>Socials</strong></summary>
+  <summary>📱 <strong>Socials</strong></summary>
 
 <br clear="both">
 
@@ -82,7 +81,7 @@
 </details>
 
 <details>
-  <summary>🔥 <strong>My Github Stats</strong></summary>
+  <summary>🔥 <strong>My GitHub Stats</strong></summary>
 
   <br clear="both">
 
@@ -92,4 +91,3 @@
   </div>
 
 </details>
-
