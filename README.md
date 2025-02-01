@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me
-- 💻 Currently working on **a digital file management app for patients**  
+- 💻 Currently **working on enhancing my full stack mobile developpement skills**  
 - 🤝 Looking for collaboration in **mobile development & backend projects**  
 - 🌐 See my portfolio: **[bento.me/fatmadjerfi](https://bento.me/fatmadjerfi)**  
 - 📩 Contact me via **[Email](mailto:khadidjadrf@gmail.com)**  
