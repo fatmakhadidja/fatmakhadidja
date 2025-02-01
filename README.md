@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me
-- 💻 Currently **working on enhancing my full stack mobile developpement skills**  
+- 💻 Currently **working on enhancing my full stack mobile development skills**  
 - 🤝 Looking for collaboration in **mobile development & backend projects**  
 - 🌐 See my portfolio: **[bento.me/fatmadjerfi](https://bento.me/fatmadjerfi)**  
 - 📩 Contact me via **[Email](mailto:khadidjadrf@gmail.com)**  
