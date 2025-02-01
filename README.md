@@ -12,7 +12,7 @@
 - 🤝 Looking for collaboration in **mobile development & backend projects**  
 - 🌐 See my portfolio: **[bento.me/fatmadjerfi](https://bento.me/fatmadjerfi)**  
 - 📩 Contact me via **[Email](mailto:khadidjadrf@gmail.com)**  
-- ✨ Fun Fact: **Passionate about app development & cybersecurity**  
+- ✨ A quote for u : **"There is but one truly serious philosophical problem, and that is suicide."**  
 
 ---
 
