@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Khadidja Fatma</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%FFC0CB&center=true&vCenter=true&width=600&lines=Third-year+Computer+Science+Student+at+ESI+Algiers;Aspiring+Junior+Mobile+App+Developer;UI/UX+Designer;Graphic+Designer;Always+learning+new+things" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%FFC0CB&center=true&vCenter=true&width=600&lines=Third-year+Computer+Science+Student+at+ESI+Algiers;Aspiring+Junior+Mobile+App+Developer;UI/UX+Design;Graphic+Design" alt="Typing SVG">
 </div>
 
 ---
