@@ -1,5 +1,5 @@
 <!-- Header with Centered Title -->
-<h1 align="center">Hi 👋, I'm Khadidja Fatma</h1>
+<h1 align="center">Hi , I'm Khadidja Fatma</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%FFC0CB&center=true&vCenter=true&width=600&lines=Third-year+Computer+Science+Student+at+ESI+Algiers;Aspiring+Junior+Mobile+App+Developer;UI/UX+Designer;Graphic+Designer;Always+learning+new+things" alt="Typing SVG">
@@ -7,7 +7,7 @@
 
 ---
 
-### 🌟 About Me
+###  About Me
 -  Currently **working on enhancing my full stack mobile development skills**  
 -  Looking for collaboration in **mobile development & backend projects**  
 -  See my portfolio: **[bento.me/fatmadjerfi](https://bento.me/fatmadjerfi)**  
@@ -43,7 +43,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" width="42" alt="Postman" />
 </p>
 
-#### 🎨 Design  
+####  Design  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="42" alt="Canva" />
@@ -53,7 +53,7 @@
 
 ---
 
-### 🔥 GitHub Stats
+###  GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fatmakhadidja&show_icons=true&theme=dracula&hide_border=true" height="160" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=fatmakhadidja&theme=dracula&hide_border=true" height="160" alt="GitHub Streak" />
