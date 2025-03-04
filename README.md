@@ -12,7 +12,7 @@
 -  Looking for collaboration in **mobile development & backend projects**  
 -  See my portfolio: **[bento.me/fatmadjerfi](https://bento.me/fatmadjerfi)**  
 -  Contact me via **[Email](mailto:khadidjadrf@gmail.com)**  
--  A quote for u : **"There is but one truly serious philosophical problem, and that is suicide."**  
+-  A quote : **"Man cannot endure his own littleness unless he can translate it into meaningfulness on the largest possible level."**  
 
 ---
 
