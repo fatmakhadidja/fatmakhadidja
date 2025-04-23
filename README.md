@@ -11,13 +11,6 @@
 
 ---
 
-### 📊 Contribution Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmakhadidja&theme=dracula&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
 ### 💻 Tech Stack
 <div align="center">
 <!-- Programming Languages -->
