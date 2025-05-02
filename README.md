@@ -2,12 +2,11 @@
 
 ---
 
-###  GitHub Stats 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatmakhadidja&show_icons=true&theme=dracula&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=fatmakhadidja&theme=dracula&hide_border=true" height="160" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmakhadidja&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="160" alt="Top Languages" />
-</div>
+### GitHub Stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=fatmakhadidja&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="160"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmakhadidja&layout=compact&langs_count=10&theme=dracula&hide_border=true" alt="Top Languages" height="160"/><img src="https://github-profile-trophy.vercel.app/?username=fatmakhadidja&theme=dracula&no-frame=true&column=6&margin-w=5" alt="GitHub Trophies"/>
+
+
 
 ---
 
