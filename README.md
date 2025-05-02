@@ -2,15 +2,16 @@
 
 ---
 
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  ### GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=fatmakhadidja&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="160"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmakhadidja&layout=compact&langs_count=10&theme=dracula&hide_border=true" alt="Top Languages" height="160"/>
-<div/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fatmakhadidja&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmakhadidja&layout=compact&langs_count=10&theme=dracula&hide_border=true" alt="Top Languages" height="160"/>
+</div>
 
 ---
 
-### 💻 Tech Stack
+<h3 align="center">💻 Tech Stack</h3>
 <div align="center">
 <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="35" />
@@ -46,8 +47,7 @@
 </div>
 
 ---
-
-### 📱 Socials  
+<h3 align="center">📱 Socials</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/djerfi-fatma/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" />
