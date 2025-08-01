@@ -1,5 +1,3 @@
-
-
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
@@ -23,10 +21,12 @@
 
 <!-- Frameworks / Tools -->
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" height="35" />
   <img src="https://img.shields.io/badge/REST%20API-005571?logo=fastapi&logoColor=white&style=for-the-badge" height="35" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="35" />
 
 <!-- Databases -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="35" />
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" height="35" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="35" />
 
@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=white&style=for-the-badge" height="35" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge" height="35" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" height="35" />
-
 </div>
 
 ---
